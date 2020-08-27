@@ -1,2 +1,2 @@
 # Pong
-Traditionnal Pong game written in Python
+Traditionnal Pong game written in Python !
