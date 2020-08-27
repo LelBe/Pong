@@ -6,10 +6,12 @@ Make sure to have the Pygame library installed !
 
 How to play :
 
-Player 1: 
+Player 1:
+
 Z --> UP
 S --> Down
 
 Player 2:
+
 O --> Up
 L --> Down
